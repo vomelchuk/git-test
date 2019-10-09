@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hello vitamin: 2
 Second line
 
+=======
+Hello vitamin: 2
+>>>>>>> master
